@@ -29,3 +29,11 @@ body
 {
     font-size: 20px;
 }
+
+#footer
+{
+    background: #333333;
+    color: aqua;
+    text-align: center;
+    padding: 0.5em;
+}
